@@ -1,4 +1,4 @@
-# Your Next Store
+# Your Next Stor
 
 <div align="center">
 <table>
